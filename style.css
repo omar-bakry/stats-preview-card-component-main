@@ -57,6 +57,8 @@ span{
     height: 300px;
     background-size: 100% auto;
     background-position: center;
+    mix-blend-mode: screen;
+    background-color: hsl(277, 64%, 61%);
     background-repeat: no-repeat;
     background-image: url(./images/image-header-desktop.jpg);
 }
